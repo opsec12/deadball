@@ -2,7 +2,7 @@
 
 A one-hour murder mystery game.
 
-Friday, September 18, 2026. During the Abilene vs. Chapman football game, a man is killed in an office behind the bleachers. Eight people are on the suspect list. The killer is already gone, and the trail crosses two continents and sixteen locations.
+*Fictional* Friday, September 18, 2026. During the Abilene vs. Chapman football game, a man is killed in an office behind the bleachers. Eight people are on the suspect list. The killer is already gone, and the trail crosses two continents and sixteen locations.
 
 ## How to play
 
